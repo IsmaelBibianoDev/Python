@@ -1,0 +1,1 @@
+El proposito de este codigo es poder aplicar la Transformada de Furier a un arhivo .wap para poder convertirlo a .mp3 y mostrar las ondas espectrales que estps archivos generan antes y despues de aplicar la Transformada de Furier mediante una grafica de igual manera poder guardar el archivo el cual se le aplico la Transformada.
